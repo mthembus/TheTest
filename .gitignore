@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PrimeService/ClassLibrary1/obj
+/PrimeService/PrimeService/obj/Debug/netcoreapp1.1
+/PrimeService/PrimeService/obj/Debug/netcoreapp1.1
+/PrimeService/ClassLibrary1/bin/Debug/netcoreapp1.1
+/PrimeService/ClassLibrary1/bin/Debug/netcoreapp1.1
+/PrimeService/PrimeService/bin/Debug/netcoreapp1.1
+*.props
+*.targets
+/PrimeService/PrimeService/obj
