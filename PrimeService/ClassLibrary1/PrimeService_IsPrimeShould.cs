@@ -14,7 +14,7 @@ namespace Prime.UnitTests.Services
         }
 
         [TestMethod]
-        public void ReturnFalseGivenValueOf1
+        public void ReturnFalseGivenValueOf1()
         {
             var result = _primeService.IsPrime(1);
 
